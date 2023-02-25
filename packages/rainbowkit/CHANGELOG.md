@@ -1,5 +1,11 @@
 # @rainbow-me/rainbowkit
 
+## 0.11.1
+
+### Patch Changes
+
+- 5e233ea: Added `bsc` and `bscTestnet` chain support
+
 ## 0.11.0
 
 ### Minor Changes
